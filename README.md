@@ -28,7 +28,7 @@ HTML, CSS, Javascript, React, Ant-design, Redux.
 
 ## BoilerPlate
 
-Dentro del archivo raiz debes tener que crear un archivo llamado:` .env` 
+Dentro del archivo raiz debes tener que crear un archivo llamado: `.env` 
 que tiene la siguiente forma: 
 
 ```
@@ -36,7 +36,7 @@ REACT_APP_HEADER_KEY=key_de_la_API_Nomada
 REACT_APP_API_KEY=key_de_la_API_moviedb
 ```
 
-Debe reemplazar `key_de_la_API_Nomada`, `key_de_la_API_moviedb` con el las key correspondientes .Este archivo será ignorado por github, ya que contiene información confidencial (las credenciales).
+Debe reemplazar `key_de_la_API_Nomada`, `key_de_la_API_moviedb` con las key correspondientes .Este archivo será ignorado por github, ya que contiene información confidencial (las credenciales).
 
 ## Por consiguiente:
  ### _Instale el paquete necesario para ejecutarlo_
