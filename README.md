@@ -55,4 +55,4 @@ Debe reemplazar `key_de_la_API_Nomada`, `key_de_la_API_moviedb` con las key corr
 - Detail 
 <p align = "center"> <img height = "200" src = "./src/images/CapturaActor.JPG" /> </p>
 
-! [visitantes] (https://visitor-badge.glitch.me/badge?page_id=Hasuro1797.searchActor)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Hasuro1797.searhActor)
