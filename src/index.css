@@ -9,12 +9,12 @@ body{
 }
 @media screen and (max-width: 768px) {
     body{
-        padding: 20px 0;
+        padding: 20px 0 !important;
     }
 }
 @media screen and (max-width: 576px) {
     body{
-        padding: 10px 0;
+        padding: 10px 0 !important;
     }
 }
 /* Home Page*/
@@ -106,7 +106,7 @@ body{
 }
 @media screen and (max-width: 576px) {
     .detailContainer{
-        width: 90vw !important;
+        width: 95vw !important;
         margin-bottom: 10px !important;
     }
 }
@@ -254,4 +254,9 @@ body{
 .releaseMovie{
     color: #43D9BD !important;
     font-size: 16px;
+}
+@media screen and (max-width: 576px) {
+    .releaseMovie{
+        padding-left: 10px;
+    }
 }
